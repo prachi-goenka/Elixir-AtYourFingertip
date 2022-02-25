@@ -1,1 +1,4 @@
-# Elixir-AtYourFingertip
+---
+permalink: /index.html
+---
+Elixir-AtYourFingertip
